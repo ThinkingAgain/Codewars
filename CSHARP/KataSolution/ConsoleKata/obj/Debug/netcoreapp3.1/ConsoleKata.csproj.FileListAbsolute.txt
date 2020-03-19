@@ -1,0 +1,11 @@
+D:\github\Codewars\CSHARP\KataSolution\ConsoleKata\bin\Debug\netcoreapp3.1\ConsoleKata.exe
+D:\github\Codewars\CSHARP\KataSolution\ConsoleKata\bin\Debug\netcoreapp3.1\ConsoleKata.deps.json
+D:\github\Codewars\CSHARP\KataSolution\ConsoleKata\bin\Debug\netcoreapp3.1\ConsoleKata.runtimeconfig.json
+D:\github\Codewars\CSHARP\KataSolution\ConsoleKata\bin\Debug\netcoreapp3.1\ConsoleKata.runtimeconfig.dev.json
+D:\github\Codewars\CSHARP\KataSolution\ConsoleKata\bin\Debug\netcoreapp3.1\ConsoleKata.dll
+D:\github\Codewars\CSHARP\KataSolution\ConsoleKata\bin\Debug\netcoreapp3.1\ConsoleKata.pdb
+D:\github\Codewars\CSHARP\KataSolution\ConsoleKata\obj\Debug\netcoreapp3.1\ConsoleKata.csprojAssemblyReference.cache
+D:\github\Codewars\CSHARP\KataSolution\ConsoleKata\obj\Debug\netcoreapp3.1\ConsoleKata.AssemblyInfoInputs.cache
+D:\github\Codewars\CSHARP\KataSolution\ConsoleKata\obj\Debug\netcoreapp3.1\ConsoleKata.AssemblyInfo.cs
+D:\github\Codewars\CSHARP\KataSolution\ConsoleKata\obj\Debug\netcoreapp3.1\ConsoleKata.dll
+D:\github\Codewars\CSHARP\KataSolution\ConsoleKata\obj\Debug\netcoreapp3.1\ConsoleKata.pdb
